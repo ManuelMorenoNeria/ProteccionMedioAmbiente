@@ -6,4 +6,4 @@
 - [Garantizar la Protección](garantizar.md)
 ## Referencias
 ## Licencia
-![image](licencia.PNG)
+![image](licencia.png)
