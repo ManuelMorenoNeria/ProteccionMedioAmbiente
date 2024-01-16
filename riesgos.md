@@ -1,6 +1,7 @@
 # Riesgos Ambientales 
-## Descripción
+
 Consideramos riesgo ambiental a todo aquello que ponga en riesgo la salud del medio ambiente, ya sea por causas naturales o humanas
+
 ## Riesgos Principales 
 - Escasez de lluvia e incremento de las sequías
 - Ciclones y tormentas
@@ -10,5 +11,5 @@ Consideramos riesgo ambiental a todo aquello que ponga en riesgo la salud del me
 - Desplazamientos de tierra
 - Avalanchas
 - Tormentas de agua, polvo y arena
-## Foto
+
 ![image](riesgo.png)
