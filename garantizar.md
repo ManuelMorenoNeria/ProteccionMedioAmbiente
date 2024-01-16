@@ -1,5 +1,5 @@
 # Garantizar 
-## Descripcion 
+
 Algunas de las acciones que podemos llevar a cabo para garantizar la protección del medio ambiente son: 
 - Reciclar
 - Ahorrar agua de la cisterna
@@ -8,5 +8,5 @@ Algunas de las acciones que podemos llevar a cabo para garantizar la protección
 - Reducir el consumo de carne
 - Usar las papeleras y contenedores
 - Usar envases biodegradables
-## Foto
+
 ![image](garantizar.png)
